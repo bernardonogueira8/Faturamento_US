@@ -1,8 +1,5 @@
-streamlit
 pandas
+streamlit
 openpyxl
 os
-import pandas as pd
-import streamlit as st
-import openpyxl
-from io import BytesIO
+io

@@ -1,0 +1,6 @@
+unicodedata
+sqlalchemy
+streamlit
+openpyxl
+pandas
+os
